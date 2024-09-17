@@ -1,3 +1,3 @@
-public class EratosthenesPrimeSieve {
+public interface EratosthenesPrimeSieve {
     
 }
