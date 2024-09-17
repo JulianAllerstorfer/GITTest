@@ -1,5 +1,2 @@
-public interface EratosthenesPrimeSieve {
-    public boolean isPrime(int p){
-        
-    }
+public class EratosthenesPrimeSieve {
 }
